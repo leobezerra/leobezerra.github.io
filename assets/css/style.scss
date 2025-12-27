@@ -30,6 +30,10 @@ h1 {
   width: 33%;
 }
 
+.vhline {
+  border-right: solid 1px white;
+}
+
 @media screen and (max-width: 600px) {
   .float-child {
     float: none;
@@ -38,5 +42,8 @@ h1 {
   .picture {
     text-align: center;
     margin: 0 0 20px 0;
+  }
+  .vhline {
+    border-bottom: solid 1px white;
   }
 }
