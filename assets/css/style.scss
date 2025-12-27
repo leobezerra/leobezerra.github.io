@@ -1,0 +1,28 @@
+.picture {
+  text-align: center;
+}
+
+.picture img {
+  width: 90%;
+}
+
+.float-parent {
+  overflow: hidden;
+  margin: 0 0 20px 0;
+}
+
+.float-child {
+  float: left;
+  width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+  .float-child {
+    float: none;
+    width: auto;
+  }
+  .picture {
+    text-align: center;
+    margin: 0 0 20px 0;
+  }
+}
