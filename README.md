@@ -9,6 +9,6 @@
    </div>
    <div class="float-child picture">
       <a href="" alt="Instituto FAIRTECH"><img src="img/fairtech.png"></a>
-      <h3>Instituto FAIRTECH</h3>
+      <h3>FAIRTECH Institute</h3>
    </div>
 </div>
